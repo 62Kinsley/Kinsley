@@ -30,12 +30,8 @@
 
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=62Kinsley&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/62Kinsley-readme-stats )
 
 ⏳ **Year Progress:** { ███████████████████████▁▁▁▁▁▁▁ } 78.37% as on ⏰ 14-Oct-2025
 
@@ -43,9 +39,9 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Project:
 <!-- BLOG-POST-LIST:START -->
-- [Restaurant Order Management System](https://github.com/62Kinsley/DeliveryApp)
-- [Ride-Hailing Application](https://github.com/62Kinsley/Microserve/tree/main/cloud-demo)
-- [DrugAge](https://github.com/62Kinsley/DrugAge)
+- 🍴 [Restaurant Order Management System](https://github.com/62Kinsley/DeliveryApp)
+- 🚗 [Ride-Hailing Application](https://github.com/62Kinsley/Microserve/tree/main/cloud-demo)
+- 🏥 [DrugAge](https://github.com/62Kinsley/DrugAge)
 <!-- BLOG-POST-LIST:END -->
 
 ---
